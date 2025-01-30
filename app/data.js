@@ -43,7 +43,7 @@ export const dummyPosts = [
     excerpt: "Next.js 14 is redefining web development with improved server components and enhanced performance.", 
     image: "/images/images2.jpg",
     content: `
-      Next.js has been at the forefront of modern web development, and with the release of Next.js 14, developers have access to even more powerful features. From improved server components to better caching strategies, Next.js continues to push the boundaries of performance and scalability.
+      Next.js  has been at the forefront of modern web development, and with the release of Next.js 14, developers have access to even more powerful features. From improved server components to better caching strategies, Next.js continues to "push" the boundaries of performance and scalability.
 
       One of the most anticipated features of Next.js 14 is the introduction of Partial Hydration, which allows pages to load faster by only hydrating the necessary components. This significantly reduces JavaScript execution time, making web applications more responsive and efficient.
 
